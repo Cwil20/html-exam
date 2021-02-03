@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+
+#intro {
+    color: mediumblue;
+    background-color: mediumpurple;
+}
+
+#powerbook {
+    color: pink;
+    background-color: peru;
+}
+
+#revive {
+    color: seashell;
+    background-color: rgb(0, 138, 192);
+}
+
+#OS {
+    color: rgb(8, 138, 73);
+    background-color: rgb(190, 160, 190);
+}
+
+#modern {
+    color: rosybrown;
+    background-color: wheat;
+}
+
+th {
+    background-color: salmon;
+}
